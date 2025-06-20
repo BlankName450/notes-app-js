@@ -9,6 +9,7 @@ A simple, beautiful notes app built with HTML, CSS, and JavaScript. Create, edit
 - 🗑️ Delete notes
 - 💾 Notes are saved in your browser (localStorage)
 - 🎨 Clean and modern UI
+- 📱 Responsive design for all devices
 
 ## Demo
 
@@ -19,7 +20,7 @@ A simple, beautiful notes app built with HTML, CSS, and JavaScript. Create, edit
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/Blankname450/notes-app-js.git
+   git clone https://github.com/BlankName450/notes-app-js.git
    ```
 2. **Open `index.html` in your browser.**
 
