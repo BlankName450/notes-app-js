@@ -15,10 +15,6 @@ A simple, beautiful notes app built with HTML, CSS, and JavaScript. Create, edit
 [View Live on GitHub Pages](https://blankname450.github.io/notes-app-js/)
 
 
-## Screenshots
-
-![App Screenshot](add_note.png)
-
 ## Getting Started
 
 1. **Clone the repository:**
