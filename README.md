@@ -23,9 +23,6 @@ A simple, beautiful notes app built with HTML, CSS, and JavaScript. Create, edit
    ```
 2. **Open `index.html` in your browser.**
 
-## Deployment
-
-This app can be deployed easily using [GitHub Pages](https://pages.github.com/).
 
 ## Folder Structure
 
